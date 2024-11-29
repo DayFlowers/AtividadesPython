@@ -6,7 +6,7 @@ def histograma(lista):
             ocorrencias[item] += 1  # Incrementa o contador se o item já estiver no dicionário
         else:
             ocorrencias[item] = 1  # Adiciona o item ao dicionário com contador 1
-    return ocorrências
+    return ocorrencias
 lista = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
 resultado = histograma(lista)
 print(resultado)  # Saída: {1: 1, 2: 2, 3: 3, 4: 4}
