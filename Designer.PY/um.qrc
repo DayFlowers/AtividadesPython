@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="lan">
+    <file>lan.jpg</file>
+    <file>lan2.jpg</file>
+    <file>lan3.jpg</file>
+    <file>lan4.jpg</file>
+  </qresource>
+  <qresource prefix="lan_icon">
+    <file>lanche.png</file>
+  </qresource>
+</RCC>

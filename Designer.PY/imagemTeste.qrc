@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="teste">
+    <file>picapau.jpg</file>
+    <file>yoda.jpg</file>
+  </qresource>
+</RCC>
